@@ -1,4 +1,4 @@
- - Hi, My name is Elyas Al-Amri, but I go with the alias Chase Codex. I'm 18 years old, soon to be 19. I started programming by the time I was 15.
+ - Hi, My name is Elyas Al-Amri. I'm 19 years old. I started programming by the time I was 15.
  - I’m interested in software programming in the fields of game development, web development, mobile development. I'm also mediocre music producer and I 
        play little of piano.
  - <strong>Programming Languages</strong>: <br>Primary: Java, C#, Javascript, PHP, Front-end stack (HTML, CSS, JS) + TS, F#, SQL.
