@@ -41,7 +41,7 @@ I’m interested in software programming in the fields of game development, web 
   - Music Producing | 2 Years
 
 ~~I’m currently learning GUI frameworks: WPF, Xamarin, MAUI (When .Net 6 gets released), Expo (React Native), VueJS, Programming languages: C++, dart.~~
+
 I'm currently migrating towards Next.js, GraphQL, MongoDB, and Typescript tech-stack.
 
 I'm look forward to join a team, regardless of salary (although it's a good incentive).
-You can reach me at chase.x.codex@gmail.com || my [Personal Website](https://intex.ga)
